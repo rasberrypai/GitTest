@@ -1,5 +1,13 @@
 {
   "trainingPhrases": [ {
+    "id": "e064a428-d689-4660-b8a1-2bed47ced275",
+    "parts": [ {
+      "text": "just going to say hi",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
     "id": "ebb48b77-41cb-4f3e-8543-2629e3a4c328",
     "parts": [ {
       "text": "heya",
